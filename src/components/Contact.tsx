@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
                 </a>
                 
                 <a 
-                  href="tel:+919876543210" 
+                  href="tel:+917907119952" 
                   className="flex items-start group hover:bg-blue-100 p-4 rounded-lg transition-colors"
                 >
                   <div className="bg-blue-100 p-3 rounded-full mr-4 group-hover:bg-blue-200">
@@ -41,8 +41,8 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-lg text-blue-900">Phone</h4>
-                    <p className="text-gray-600">+91 98765 43210</p>
-                    <p className="text-gray-600">+91 98765 43211</p>
+                    <p className="text-gray-600">+91 790 711 9952</p>
+{/*                     <p className="text-gray-600">+91 98765 43211</p> */}
                   </div>
                 </a>
                 
